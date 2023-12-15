@@ -1,5 +1,5 @@
 # swagger-parser
-Converts swagger json exports and makes them readable 
+Parses swagger json exports and makes them readable 
 
 ## Usage
 python swagger-parser.py /path/to/json/directory
