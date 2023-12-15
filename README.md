@@ -1,5 +1,7 @@
 # swagger-parser
-Parses swagger json exports and makes them readable 
+Parses swagger json exports and makes them readable.
+
+Currently only swagger/openAPI exports are supported but could eventually be improved upon.
 
 ## Usage
 python swagger-parser.py /path/to/json/directory
