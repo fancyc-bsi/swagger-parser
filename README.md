@@ -2,7 +2,7 @@
 Converts swagger json exports and makes them readable 
 
 ## Usage
-python swagger-parser.py /path/to/json/files
+python swagger-parser.py /path/to/json/directory
 
 
 ## Example output
